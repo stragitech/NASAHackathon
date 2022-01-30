@@ -1,4 +1,4 @@
-# # Building heatmap by year constructed
+# Building heatmap by year constructed
 ### Packages used
 #### python version 3.9
 
